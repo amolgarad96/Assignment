@@ -9,7 +9,7 @@ const images = [
   "/images/task/third.png",
   "/images/task/fourth.png",
   "/images/task/five.png",
-  "/images/task/five.png",
+  "/images/task/six.png",
 ];
 
 export default function Gallery() {

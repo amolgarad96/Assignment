@@ -23,16 +23,16 @@ export default function Navbar() {
 
         {/* desktop Menu here */}
         <nav className="hidden md:flex justify-center w-full gap-12 text-lg font-semibold text-gray-700">
-          <a href="#" className="hover:text-black transition text-[22px]">
+          <a href="/task2" className="hover:text-black transition text-[22px]">
             Services
           </a>
-          <a href="#" className="hover:text-black transition text-[22px]">
+          <a href="/task2" className="hover:text-black transition text-[22px]">
             Stylists
           </a>
-          <a href="#" className="hover:text-black transition text-[22px]">
+          <a href="/task2" className="hover:text-black transition text-[22px]">
             Join Our Team
           </a>
-          <a href="#" className="hover:text-black transition text-[22px]">
+          <a href="/task2" className="hover:text-black transition text-[22px]">
             Contacts
           </a>
         </nav>
@@ -64,10 +64,10 @@ export default function Navbar() {
             }
           }}
         >
-          <a href="#" >Services</a>
-          <a href="#" >Stylists</a>
-          <a href="#" >Join Our Team</a>
-          <a href="#" >Contacts</a>
+          <a href="/task2" >Services</a>
+          <a href="/task2" >Stylists</a>
+          <a href="/task2" >Join Our Team</a>
+          <a href="/task2" >Contacts</a>
         </div>
       </div>
     </div>
